@@ -1,4 +1,14 @@
 ### My name is Erfan Gharche Beydokhti👋
+===============================
+Developer & Graphic Designer
+-----------------------------
+*   🤝  I'm open to collaborating on interesting projects as a web and android developer
+
+### Skills
+<p align="left">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="CSharp" /></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt="DotNet" /></a>
+</p>
 
 <!--
 **ErfanERATO/ErfanERATO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
