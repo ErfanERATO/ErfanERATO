@@ -4,8 +4,8 @@
 Developer & Graphic Designer
 -----------------------------
 *   🤝  I'm open to collaborating on interesting projects as a web and android developer
-*   🚀  I'm currently working with Nicode Team
-*   🌱 I’m currently learning [flutter.dev](https://flutter.dev/) and asp.Net
+*   🚀  I'm currently working with Ako Team
+*   🌱 I’m currently learning [flutter.dev](https://flutter.dev/) and [reactnative.dev](https://reactnative.dev/)
 
 ### Skills
 <p align="left">
