@@ -12,6 +12,7 @@ Developer & Graphic Designer
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="CSharp" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt="DotNet" /></a>
   <a href="https://flutter.dev/?gclid=CjwKCAjw5NqVBhAjEiwAeCa97QwgWHn11B9nLs9GQ-sxpW2hGXxTqlrwwuA86nlXssCiFu4eokR-mBoCmNsQAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src="https://static.cdnlogo.com/logos/f/30/flutter.svg" width="36" height="36" alt="Flutter" /></a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fhtml-5_732212&psig=AOvVaw09jBQDaSu_LpZf1v7zSJRP&ust=1673871290706000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLCg0oTHyfwCFQAAAAAdAAAAABAD" width="36" height="36" alt="Html" /></a>
 </p>
 
 **Languages and Tools:**    
@@ -26,6 +27,7 @@ Developer & Graphic Designer
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Kuruchy/Kuruchy/master/data/git.svg"></code>
+<code><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fhtml-5_732212&psig=AOvVaw09jBQDaSu_LpZf1v7zSJRP&ust=1673871290706000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLCg0oTHyfwCFQAAAAAdAAAAABAD"></code>
 
 
 ### Socials
