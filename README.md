@@ -12,7 +12,6 @@ Developer & Graphic Designer
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="CSharp" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt="DotNet" /></a>
   <a href="https://flutter.dev/?gclid=CjwKCAjw5NqVBhAjEiwAeCa97QwgWHn11B9nLs9GQ-sxpW2hGXxTqlrwwuA86nlXssCiFu4eokR-mBoCmNsQAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src="https://static.cdnlogo.com/logos/f/30/flutter.svg" width="36" height="36" alt="Flutter" /></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="https://images.app.goo.gl/rJ8dpYVfT4HztZZc9" width="36" height="36" alt="Html" /></a>
   
 </p>
 
@@ -28,7 +27,6 @@ Developer & Graphic Designer
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Kuruchy/Kuruchy/master/data/git.svg"></code>
-<code><img height="30" src="https://images.app.goo.gl/rJ8dpYVfT4HztZZc9"></code>
 
 ### Socials
                   
