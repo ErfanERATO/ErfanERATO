@@ -6,14 +6,13 @@ Developer & Graphic Designer
 *   🤝  I'm open to collaborating on interesting projects as a web and android developer
 *   🚀  I'm currently working with Ako Team
 *   🌱 I’m currently learning [flutter.dev](https://flutter.dev/) and [reactnative.dev](https://reactnative.dev/)
------------------------------
 ### Skills
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="CSharp" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt="DotNet" /></a>
   <a href="https://flutter.dev/?gclid=CjwKCAjw5NqVBhAjEiwAeCa97QwgWHn11B9nLs9GQ-sxpW2hGXxTqlrwwuA86nlXssCiFu4eokR-mBoCmNsQAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src="https://static.cdnlogo.com/logos/f/30/flutter.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
------------------------------
+
 **Languages and Tools:**    
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code> 
@@ -26,7 +25,7 @@ Developer & Graphic Designer
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Kuruchy/Kuruchy/master/data/git.svg"></code>
------------------------------
+
 ### Socials
                   
 <p align="left">
