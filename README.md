@@ -10,7 +10,7 @@ Developer & Graphic Designer
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="CSharp" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt="DotNet" /></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AReact-icon.svg&psig=AOvVaw1l4CQF87HPOqi3dZwu1lZc&ust=1691567953078000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDlxPD7yYADFQAAAAAdAAAAABAE" width="36" height="36" alt="React" /></a>
+  <a href="https://flutter.dev/?gclid=CjwKCAjw5NqVBhAjEiwAeCa97QwgWHn11B9nLs9GQ-sxpW2hGXxTqlrwwuA86nlXssCiFu4eokR-mBoCmNsQAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src="https://static.cdnlogo.com/logos/f/30/flutter.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
 
 **Languages and Tools:**    
