@@ -26,6 +26,7 @@ Developer & Graphic Designer
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Kuruchy/Kuruchy/master/data/git.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
 
 ### Socials
                   
