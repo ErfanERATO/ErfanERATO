@@ -5,7 +5,7 @@ Developer & Graphic Designer
 -----------------------------
 *   🤝  I'm open to collaborating on interesting projects as a web and android developer
 *   🚀  I'm currently working with Ako Team
-*   🌱 I’m currently learning [flutter.dev](https://flutter.dev/) and [reactnative.dev](https://reactnative.dev/)
+*   🌱 I’m currently learning [nextjs.dev](https://nextjs.org/) and [reactnative.dev](https://reactnative.dev/)
 ### Skills
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="CSharp" /></a>
