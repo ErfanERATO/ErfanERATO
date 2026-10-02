@@ -1,5 +1,7 @@
-### Hi guys, my name is Erfan Gharche Beydokhti. Welcome to my GitHub 👋
+### Hi, I'm Erfan Gharche Beydokhti
+Full-Stack Developer | Software Engineer
 
+Welcome to my GitHub. I’m a passionate developer who enjoys building software, exploring new technologies, and turning ideas into practical solutions.
 ===============================
 
 ## Full-Stack Developer
