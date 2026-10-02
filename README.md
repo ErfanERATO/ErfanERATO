@@ -9,7 +9,7 @@ For me, programming is more than just writing code. It’s a way of solving prob
 
 I’m driven by curiosity, creativity, and the desire to keep improving. My goal is to never stop learning and to turn what I learn into practical, valuable, and impactful solutions.
 * 🤝 I'm open to collaborating on interesting web, backend, and mobile development projects
-* 🚀 I'm currently working with Ako Team
+* 🚀 I'm currently working with Rabin 
 * 🌱 I'm currently learning [NestJS](https://nestjs.com/)
 
 ### Skills
