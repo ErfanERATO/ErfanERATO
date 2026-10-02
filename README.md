@@ -3,7 +3,11 @@
 ===============================
 
 ## Full-Stack Developer
+I’m a 25-year-old software developer from Nishapur, Iran, with a strong passion for technology and continuous learning. I’m always curious about how things work and constantly looking for opportunities to explore new technologies, improve my skills, and challenge myself with new ideas.
 
+For me, programming is more than just writing code. It’s a way of solving problems, building meaningful solutions, and continuously growing. I enjoy learning new tools, frameworks, and concepts, and I believe that there is always something new to discover in the world of technology.
+
+I’m driven by curiosity, creativity, and the desire to keep improving. My goal is to never stop learning and to turn what I learn into practical, valuable, and impactful solutions.
 * 🤝 I'm open to collaborating on interesting web, backend, and mobile development projects
 * 🚀 I'm currently working with Ako Team
 * 🌱 I'm currently learning [NestJS](https://nestjs.com/)
